@@ -12,8 +12,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-backend-folder>
+   git clone https://github.com/goraneld/notes-app-backend.git
+   cd notes-app-backend
    ```
 
 2. **Configure MongoDB**
